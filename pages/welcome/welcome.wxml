@@ -1,0 +1,13 @@
+<!--pages/welcome/welcome.wxml-->
+
+<!-- 设置背景图，需要用在线图片 -->
+<view class="container"
+  mode='widthFix'
+  bindtap='jumpToIndexPage'
+  style="background-image: url('https://636c-cloud1-6gefcec42c5630ec-1305909779.tcb.qcloud.la/img/bg_welcome.jpg?sign=1c121e4857a7f3ec040bcc2edbdb4b71&t=1623138111')!important;">
+
+  <!--<button class="button" plain="true" bindtap='jumpToIndexPage'>
+    <image src="https://636c-cloud1-6gefcec42c5630ec-1305909779.tcb.qcloud.la/img/button.png?sign=ed85a0de50d5f99445281db1dd350e17&t=1623121996"></image>
+  </button>-->
+
+</view>
